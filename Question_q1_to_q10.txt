@@ -1,0 +1,19 @@
+Q1: List all distinct categories of crew ordered by category
+
+Q2: List the average rating of movies acted by ‘Robert Downey Jr.’ 
+
+Q3: List the year and the number of comedy movies in each year ordered by year. Note that year of null is excluded. (Comedy movies包含所有genre有出現comedy字眼的電影)
+
+Q4: List the name of actresses who have performed at least one action movie which has been released in Japan (region JP) during 1991~2000, ordered by name. (action movies包含所有genre有出現action字眼的電影)
+
+Q5: List the number of actresses who have appeared in any title with ‘Robert Downey Jr.’
+
+Q6: List the name, and the birth year of actors who appeared in any title before he was twenty (<=20) ordered by name.
+
+Q7: List the name of composer who appeared in more than 10 high rating titles ordered by name. A title is high rating if the rating is above 8.
+
+Q8: List the birth year, both names of actress and actor who were born on the same year and have participated in the same title ordered by the birth year, actress names, and actor name.
+
+Q9: List the name of people who appeared in any titles with 'Jennifer Lawrence' including herself ordered by their name.
+
+Q10: List the name of people who appeared in all the titles with 'Jennifer Lawrence' including herself ordered by their name. (此題為加分題，Hint: 運用WITH and EXCEPT)
